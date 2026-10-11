@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- след кольца -->
+    <path android:strokeColor="#38FAF8F4" android:strokeWidth="10" android:fillColor="#00000000"
+        android:pathData="M54,54m-27,0a27,27 0,1 1,54 0a27,27 0,1 1,-54 0" />
+    <!-- заполненная дуга 72% начиная с верхней точки -->
+    <path android:strokeColor="@color/icon_ring" android:strokeWidth="10" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M54,27 A27,27 0 1 1 28.3,62.3" />
+</vector>
